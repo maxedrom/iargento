@@ -1,0 +1,18 @@
+#by maxelocked
+#Argento Team
+info:
+  namespace: iaargento
+  dictionary-lang: en
+dictionary:
+  display-name-music_disc_kep_malditoc: '&bKe-Personajes - Maldito Corazon'
+  display-name-music_disc_kep_flor: '&bKe-Personajes - Como la Flor'
+  display-name-music_disc_laz_maravillas: '&bLos Angeles Azules - Las Maravillas de la Vida'
+  display-name-music_disc_laz_liston: '&bLos Angeles Azules - El Liston de tu Pelo'
+  display-name-music_disc_tlp_bachata: '&bLa Kupe - Bachata'
+  display-name-music_disc_emn_nodigasno: '&bEmanero y Karina - No me digas que no'
+  display-name-music_disc_lpm-olvidala: '&bBanda XXI - Olvidala'
+  display-name-music_disc_rdg_fuego: '&bRodrigo - Fuego y Pasion'
+  display-name-music_disc_qlc_yoerati: '&bQue Lokura - Yo Era / Pero me acuerdo de ti'
+  display-name-music_disc_lkg_elmismoaire: '&bLa Konga - El Mismo Aire'
+  display-name-music_disc_lkg_noseva: '&bLa Konga - No se va'
+  display-name-music_disc_lkg_tementiria: '&bLa Konga - Te Mentiria'

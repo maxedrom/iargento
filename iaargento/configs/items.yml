@@ -1,0 +1,197 @@
+#by maxedrom
+#Argento Team
+info:
+  namespace: iaargento
+items:
+  music_disc_electric_keys:
+    enabled: true
+    display_name: display-name-music_disc_kep_malditoc
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7Ke-Personajes - Maldito Corazon'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/kep_malditoc.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.kep_malditoc
+          description: Musica Argenta volumen 1
+  music_disc_electric_keys1:
+    enabled: true
+    display_name: display-name-music_disc_kep_flor
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7Ke-Personajes - Como la Flor'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/kep_flor.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.kep_flor
+          description: Musica Argenta volumen 1
+  music_disc_maravillas:
+    enabled: true
+    display_name: display-name-music_disc_laz_maravillas
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7Los Angeles Azules - Las Maravillas de la Vida'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/laz_maravillas.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.laz_maravillas
+          description: Musica Argenta volumen 1
+  music_disc_liston:
+    enabled: true
+    display_name: display-name-music_disc_laz_liston
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7Los Angeles Azules - El Liston de tu Pelo'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/laz_liston.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.laz_liston
+          description: Musica Argenta volumen 1
+  music_disc_tlp_bachata:
+    enabled: true
+    display_name: display-name-music_disc_tlp_bachata
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7La Kupe - Bachata'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/tlp_bachata.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.tlp_bachata
+          description: Musica Argenta volumen 1
+  music_disc_emn_nodigasno:
+    enabled: true
+    display_name: display-name-music_disc_emn_nodigasno
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7Emanero y Karina - No me digas que no'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/emn_nodigasno.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.emn_nodigasno
+          description: Musica Argenta volumen 1
+  music_disc_lpm-olvidala:
+    enabled: true
+    display_name: display-name-music_disc_lpm-olvidala
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7Banda XXI - Olvidala'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/lpm-olvidala.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.lpm-olvidala
+          description: Musica Argenta volumen 1
+  music_disc_qlc_yoerati:
+    enabled: true
+    display_name: display-name-music_disc_qlc_yoerati
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7Que Lokura - Yo Era / Pero me acuerdo de ti'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/qlc_yoerati.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.qlc_yoerati
+          description: Musica Argenta volumen 1
+  music_disc_lkg_elmismoaire:
+    enabled: true
+    display_name: display-name-music_disc_lkg_elmismoaire
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7La Konga - El Mismo Aire'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/lkg_elmismoaire.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.lkg_elmismoaire
+          description: Musica Argenta volumen 1
+  music_disc_lkg_noseva:
+    enabled: true
+    display_name: display-name-music_disc_lkg_noseva
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7La Konga - No se va'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/lkg_noseva.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.lkg_noseva
+          description: Musica Argenta volumen 1
+  music_disc_lkg_tementiria:
+    enabled: true
+    display_name: display-name-music_disc_lkg_tementiria
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7La Konga - Te Mentiria'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/lkg_tementiria.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.lkg_tementiria
+          description: Musica Argenta volumen 1
+  music_disc_rdg_fuego:
+    enabled: true
+    display_name: display-name-music_disc_rdg_fuego
+    permission: iaargento.music_disc_argento
+    lore:
+      - '&7Rodrigo - Fuego y Pasion'
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - iaargento:item/rdg_fuego.png
+    behaviours:
+      music_disc:
+        song:
+          name: iaargento:music_disc.rdg_fuego
+          description: Musica Argenta volumen 1

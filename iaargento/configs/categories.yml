@@ -1,0 +1,24 @@
+#by maxedrom
+#Argento Team
+info:
+  namespace: iaargento
+categories:
+  iaargento:
+    enabled: true
+    skip_if_already: false
+    icon: iaargento:music_disc_electric_keys
+    name: "Musica Argentina (Vol. 1)"
+    permission: ia.menu.seecategory.iaargento
+    items:
+      - iaargento:music_disc_electric_keys
+      - iaargento:music_disc_electric_keys1
+      - iaargento:music_disc_maravillas
+      - iaargento:music_disc_liston
+      - iaargento:music_disc_tlp_bachata
+      - iaargento:music_disc_emn_nodigasno
+      - iaargento:music_disc_lpm-olvidala
+      - iaargento:music_disc_qlc_yoerati
+      - iaargento:music_disc_lkg_elmismoaire
+      - iaargento:music_disc_lkg_noseva
+      - iaargento:music_disc_lkg_tementiria
+      - iaargento:music_disc_rdg_fuego      

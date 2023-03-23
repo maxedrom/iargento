@@ -1,0 +1,149 @@
+#by maxedrom
+#Argento Team
+info:
+  namespace: iaargento
+recipes:
+    music_disc_electric_keys:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1
+    music_disc_electric_keys1:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1
+    music_disc_maravillas:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1
+    music_disc_liston:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1
+    music_disc_tlp_bachata:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1      
+    music_disc_emn_nodigasno:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1      
+    music_disc_lpm-olvidala:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1           
+    music_disc_qlc_yoerati:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1    
+    music_disc_lkg_elmismoaire:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1
+    music_disc_lkg_noseva:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1   
+    music_disc_lkg_tementiria:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1          
+    music_disc_rdg_fuego:
+      permission: iaargento.music_disc_electric_keys
+      enabled: true
+      pattern:
+        - XXX
+        - XBD
+        - XXX
+      ingredients:
+        D: DIAMOND
+      result:
+        item: iaargento:music_disc_electric_keys
+        amount: 1
